@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* CSS Document */
+
+.abc{float:right;
+background-color:#F9C;
+width:17%;
+height:711px;
+padding-bottom:10px;
+padding-top:10px;
+}
+.xyz {background-color:white;
+}
+.ok{
+	float:left;
+	background-color:#F0F;
+	width:17%;
+	height:500px;
+	padding:5px 5px 5px 15px;
+}
+.h2{color:#F00;
+}
+.table{padding-top:120px;
+}
